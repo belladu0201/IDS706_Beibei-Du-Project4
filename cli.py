@@ -9,11 +9,9 @@ def statushealth(df):
     """Pass in additional fruit"""
 
     chosen_random_ten = health_generator(df)
-    for i in chosen_random_ten:
-        click.echo(
-            click.style(
-                f"Your choice was randomly selected: {statistics.mode(set(i))}", fg="red", bold=True
-            )
+    click.echo(
+        click.style(
+            f"Your choice was randomly selected: {statistics.mode(set(chosen_random_ten))}", fg="red", bold=True
         )
 
 
