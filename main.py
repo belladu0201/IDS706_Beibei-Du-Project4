@@ -7,4 +7,4 @@ app = FastAPI()
 
 @app.get("/")
 async def root():
-    return {"message": "Hello World"}
+    return {"message": "Hello IDS706! This is a Repo for IDS706 Project 4!"}
