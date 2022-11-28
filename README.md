@@ -8,6 +8,11 @@
 In this project, I am using the `FastAPI` to deploy some data enginerring Tasks.
 
 ## Implementation
+- Install the packages in the requirements.txt and set up for FastAPI
+- Code for the project and functions to perform the tasks
+- Perform Continous Intergration on Github Actions
+- Deploy Continous Delivery
+
 
 
 ## How to Use
