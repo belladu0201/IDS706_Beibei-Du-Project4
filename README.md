@@ -6,7 +6,7 @@
 
 ## Overview
 In this project, I am using the `FastAPI` to deploy some data enginerring Tasks. I take a dataset from Kaggle about the fetal health and I want to discover what are the features that will classify/predict the `fetal_health` status and using machine learning to achieve a high accuracy on testing set. I considered the following models: KNN, Random Forest, Logistic regression, XGBoost. In the output that I received, XGBoost performed the best with an accuracy score of 94.13%.
-[!alt](https://github.com/nogibjj/IDS706_Beibei-Du-Project4/blob/main/xgboost_confusion%20matrix.png)
+![img](https://github.com/nogibjj/IDS706_Beibei-Du-Project4/blob/main/xgboost_confusion%20matrix.png)
 
 ## Implementation
 - Install the packages in the requirements.txt and set up for FastAPI
