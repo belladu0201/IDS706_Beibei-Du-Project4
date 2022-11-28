@@ -1,4 +1,7 @@
 from random import choices
+import pandas as pd
+
+df = pd.read_csv('fetal_health.csv')
 
 def random_num(df):
 
