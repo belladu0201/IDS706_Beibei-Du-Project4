@@ -25,3 +25,4 @@ In the next step of this project, I try to randomly select 10 rows from the data
 
 ## Reference
 https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification
+https://github.com/noahgift/functions-from-zero2
